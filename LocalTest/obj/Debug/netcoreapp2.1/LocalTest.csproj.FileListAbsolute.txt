@@ -1,0 +1,17 @@
+C:\Users\Satinder\source\repos\MarsAutomationInCore\LocalTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Satinder\source\repos\MarsAutomationInCore\LocalTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Satinder\source\repos\MarsAutomationInCore\LocalTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Satinder\source\repos\MarsAutomationInCore\LocalTest\bin\Debug\netcoreapp2.1\LocalTest.deps.json
+C:\Users\Satinder\source\repos\MarsAutomationInCore\LocalTest\bin\Debug\netcoreapp2.1\LocalTest.runtimeconfig.json
+C:\Users\Satinder\source\repos\MarsAutomationInCore\LocalTest\bin\Debug\netcoreapp2.1\LocalTest.runtimeconfig.dev.json
+C:\Users\Satinder\source\repos\MarsAutomationInCore\LocalTest\bin\Debug\netcoreapp2.1\LocalTest.dll
+C:\Users\Satinder\source\repos\MarsAutomationInCore\LocalTest\bin\Debug\netcoreapp2.1\LocalTest.pdb
+C:\Users\Satinder\source\repos\MarsAutomationInCore\LocalTest\bin\Debug\netcoreapp2.1\MarsAutomationInCore.dll
+C:\Users\Satinder\source\repos\MarsAutomationInCore\LocalTest\bin\Debug\netcoreapp2.1\MarsAutomationInCore.pdb
+C:\Users\Satinder\source\repos\MarsAutomationInCore\LocalTest\obj\Debug\netcoreapp2.1\LocalTest.csprojAssemblyReference.cache
+C:\Users\Satinder\source\repos\MarsAutomationInCore\LocalTest\obj\Debug\netcoreapp2.1\LocalTest.csproj.CoreCompileInputs.cache
+C:\Users\Satinder\source\repos\MarsAutomationInCore\LocalTest\obj\Debug\netcoreapp2.1\LocalTest.AssemblyInfoInputs.cache
+C:\Users\Satinder\source\repos\MarsAutomationInCore\LocalTest\obj\Debug\netcoreapp2.1\LocalTest.AssemblyInfo.cs
+C:\Users\Satinder\source\repos\MarsAutomationInCore\LocalTest\obj\Debug\netcoreapp2.1\LocalTest.csproj.CopyComplete
+C:\Users\Satinder\source\repos\MarsAutomationInCore\LocalTest\obj\Debug\netcoreapp2.1\LocalTest.dll
+C:\Users\Satinder\source\repos\MarsAutomationInCore\LocalTest\obj\Debug\netcoreapp2.1\LocalTest.pdb

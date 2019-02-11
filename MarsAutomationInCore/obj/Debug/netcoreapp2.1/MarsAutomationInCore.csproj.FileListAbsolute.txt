@@ -1,0 +1,9 @@
+C:\Users\Satinder\source\repos\MarsAutomationInCore\MarsAutomationInCore\bin\Debug\netcoreapp2.1\MarsAutomationInCore.deps.json
+C:\Users\Satinder\source\repos\MarsAutomationInCore\MarsAutomationInCore\bin\Debug\netcoreapp2.1\MarsAutomationInCore.dll
+C:\Users\Satinder\source\repos\MarsAutomationInCore\MarsAutomationInCore\obj\Debug\netcoreapp2.1\MarsAutomationInCore.csprojAssemblyReference.cache
+C:\Users\Satinder\source\repos\MarsAutomationInCore\MarsAutomationInCore\obj\Debug\netcoreapp2.1\MarsAutomationInCore.csproj.CoreCompileInputs.cache
+C:\Users\Satinder\source\repos\MarsAutomationInCore\MarsAutomationInCore\obj\Debug\netcoreapp2.1\MarsAutomationInCore.AssemblyInfoInputs.cache
+C:\Users\Satinder\source\repos\MarsAutomationInCore\MarsAutomationInCore\obj\Debug\netcoreapp2.1\MarsAutomationInCore.AssemblyInfo.cs
+C:\Users\Satinder\source\repos\MarsAutomationInCore\MarsAutomationInCore\bin\Debug\netcoreapp2.1\MarsAutomationInCore.pdb
+C:\Users\Satinder\source\repos\MarsAutomationInCore\MarsAutomationInCore\obj\Debug\netcoreapp2.1\MarsAutomationInCore.dll
+C:\Users\Satinder\source\repos\MarsAutomationInCore\MarsAutomationInCore\obj\Debug\netcoreapp2.1\MarsAutomationInCore.pdb
